@@ -1,2 +1,2 @@
 # Rock_Paper_Scissors
-Simple python program for Rock paper scissors game using Tkinter
+Simple python program for Rock paper scissors game using Tkinter and random module.
